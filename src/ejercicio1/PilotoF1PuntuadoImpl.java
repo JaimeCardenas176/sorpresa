@@ -38,7 +38,7 @@ package ejercicio1;
        circuito. En el caso de que el piloto no tenga ninguna puntuación para el circuito debe devolver cero.
         
         //TODO
-     - Método main que realice las siguientes acciones:
+     - Método main (en la clase App que esta fuera de los paquetes) que realice las siguientes acciones:
         + Crear un piloto puntuado con los siguientes datos:
             - Nombre: “Lewis Hamilton”
             - Escudería: “Mercedes”
